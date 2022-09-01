@@ -1,0 +1,28 @@
+placeholder{
+  font-family: cursive;
+}
+.big {
+  background-image: radial-gradient(#6495ED,#FFFFFF);
+}
+.for-pc {
+  text-align: center;
+  font-size: 230%;
+  font-weight: bolder;
+  font-weight: bold;
+  font-family: cursive;
+}
+.cursive{
+  font-family: cursive;
+}
+@media (max-width: 992px) {
+
+.heading {
+
+  text-align: center;
+  font-size: 230%;
+  font-weight: bolder;
+  font-weight: bold;
+  font-family: cursive;
+
+}
+}
